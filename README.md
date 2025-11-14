@@ -79,10 +79,4 @@ Renis-store uses the {test_framework} test framework. Run the test suite with:
 Using npm:  
 `npm test`
 
-***
 
-Return to top link
-
-***
-
-This is the extracted textual content structured and summarized from the HTML you provided. Let me know if you want it in a different format or need further extraction.
