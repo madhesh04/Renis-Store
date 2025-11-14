@@ -1,20 +1,88 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+Here is the extracted content from the provided HTML elements:
 
-# Run and deploy your AI Studio app
+***
 
-This contains everything you need to run your app locally.
+RENIS-STORE
 
-View your app in AI Studio: https://ai.studio/apps/drive/1rC_g-HXkr-B4A_9bTkBHhYldMXvzDS5y
+*Transform Shopping Into Seamless, Effortless Experiences*
 
-## Run Locally
+Badges for last commit, repo top language, repo language count, and technologies used:
 
-**Prerequisites:**  Node.js
+- JSON
+- Markdown
+- npm
+- React
+- TypeScript
+- Vite
 
+***
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Table of Contents
+
+- Overview
+- Getting Started  
+  - Prerequisites  
+  - Installation  
+  - Usage  
+  - Testing  
+
+***
+
+Overview
+
+Renis-Store is a modern, React-powered e-commerce framework designed to streamline the development of sleek online storefronts. Built with a focus on performance, usability, and modularity, it provides a comprehensive architecture for creating engaging shopping experiences.
+
+Why Renis-Store?
+
+This project empowers developers to build scalable, feature-rich e-commerce websites with ease. The core features include:
+
+- 🧩 Component-Based Architecture: Reusable UI components like Header, Footer, Carousel, and Toast ensure a consistent and maintainable design.
+- 🚀 Seamless Navigation: A robust routing structure with layout management facilitates smooth page transitions across product, cart, checkout, and informational pages.
+- 🛒 Integrated Shopping Flow: Global cart context, order management, and UPI QR code checkout streamline the user purchase journey.
+- 🛠️ Developer-Friendly Setup: Built with Vite, TypeScript, and Tailwind CSS, offering a fast, modern development environment.
+- 🎯 Focus on UX: Features like scroll management, notifications, and responsive design enhance user engagement and accessibility.
+
+***
+
+Getting Started
+
+Prerequisites
+
+This project requires the following dependencies:
+
+- Programming Language: TypeScript
+- Package Manager: Npm
+
+Installation
+
+Build Renis-Store from the source and install dependencies:
+
+1. Clone the repository:  
+   `❯ git clone https://github.com/madhesh04/Renis-Store`
+
+2. Navigate to the project directory:  
+   `❯ cd Renis-Store`
+
+3. Install the dependencies:  
+   Using npm:  
+   `❯ npm install`
+
+Usage
+
+Run the project with:  
+Using npm:  
+`npm start`
+
+Testing
+
+Renis-store uses the {test_framework} test framework. Run the test suite with:  
+Using npm:  
+`npm test`
+
+***
+
+Return to top link
+
+***
+
+This is the extracted textual content structured and summarized from the HTML you provided. Let me know if you want it in a different format or need further extraction.
