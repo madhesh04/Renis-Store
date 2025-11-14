@@ -1,7 +1,3 @@
-Here is the extracted content from the provided HTML elements:
-
-***
-
 RENIS-STORE
 
 *Transform Shopping Into Seamless, Effortless Experiences*
